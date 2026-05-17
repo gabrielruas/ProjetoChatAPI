@@ -1,0 +1,153 @@
+C:/Users/Usuário/Documents/Tecnico em Cafeicultura/Tecnico em Informatica/Itera360/Arquitetura em solucoes/Aula-02/Projeto360/Projeto360.Repositorio/bin/Debug/net9.0/Projeto360.Repositorio.deps.json
+C:/Users/Usuário/Documents/Tecnico em Cafeicultura/Tecnico em Informatica/Itera360/Arquitetura em solucoes/Aula-02/Projeto360/Projeto360.Repositorio/bin/Debug/net9.0/Projeto360.Repositorio.dll
+C:/Users/Usuário/Documents/Tecnico em Cafeicultura/Tecnico em Informatica/Itera360/Arquitetura em solucoes/Aula-02/Projeto360/Projeto360.Repositorio/bin/Debug/net9.0/Projeto360.Repositorio.pdb
+C:/Users/Usuário/Documents/Tecnico em Cafeicultura/Tecnico em Informatica/Itera360/Arquitetura em solucoes/Aula-02/Projeto360/Projeto360.Repositorio/obj/Debug/net9.0/Projeto360.Repositorio.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Usuário/Documents/Tecnico em Cafeicultura/Tecnico em Informatica/Itera360/Arquitetura em solucoes/Aula-02/Projeto360/Projeto360.Repositorio/obj/Debug/net9.0/Projeto360.Repositorio.AssemblyInfoInputs.cache
+C:/Users/Usuário/Documents/Tecnico em Cafeicultura/Tecnico em Informatica/Itera360/Arquitetura em solucoes/Aula-02/Projeto360/Projeto360.Repositorio/obj/Debug/net9.0/Projeto360.Repositorio.AssemblyInfo.cs
+C:/Users/Usuário/Documents/Tecnico em Cafeicultura/Tecnico em Informatica/Itera360/Arquitetura em solucoes/Aula-02/Projeto360/Projeto360.Repositorio/obj/Debug/net9.0/Projeto360.Repositorio.csproj.CoreCompileInputs.cache
+C:/Users/Usuário/Documents/Tecnico em Cafeicultura/Tecnico em Informatica/Itera360/Arquitetura em solucoes/Aula-02/Projeto360/Projeto360.Repositorio/obj/Debug/net9.0/Projeto360.Repositorio.dll
+C:/Users/Usuário/Documents/Tecnico em Cafeicultura/Tecnico em Informatica/Itera360/Arquitetura em solucoes/Aula-02/Projeto360/Projeto360.Repositorio/obj/Debug/net9.0/refint/Projeto360.Repositorio.dll
+C:/Users/Usuário/Documents/Tecnico em Cafeicultura/Tecnico em Informatica/Itera360/Arquitetura em solucoes/Aula-02/Projeto360/Projeto360.Repositorio/obj/Debug/net9.0/Projeto360.Repositorio.pdb
+C:/Users/Usuário/Documents/Tecnico em Cafeicultura/Tecnico em Informatica/Itera360/Arquitetura em solucoes/Aula-02/Projeto360/Projeto360.Repositorio/obj/Debug/net9.0/ref/Projeto360.Repositorio.dll
+C:/Users/Usuário/Documents/Tecnico em Cafeicultura/Tecnico em Informatica/Itera360/Arquitetura em solucoes/Aula-02/Projeto360/Projeto360.Repositorio/bin/Debug/net9.0/Projeto360.Dominio.dll
+C:/Users/Usuário/Documents/Tecnico em Cafeicultura/Tecnico em Informatica/Itera360/Arquitetura em solucoes/Aula-02/Projeto360/Projeto360.Repositorio/bin/Debug/net9.0/Projeto360.Dominio.pdb
+C:/Users/Usuário/Documents/Tecnico em Cafeicultura/Tecnico em Informatica/Itera360/Arquitetura em solucoes/Aula-02/Projeto360/Projeto360.Repositorio/obj/Debug/net9.0/Projeto360.Repositorio.csproj.AssemblyReference.cache
+C:/Users/Usuário/Documents/Tecnico em Cafeicultura/Tecnico em Informatica/Itera360/Arquitetura em solucoes/Aula-02/Projeto360/Projeto360.Repositorio/obj/Debug/net9.0/Projeto3.3DC9F0D7.Up2Date
+C:/Users/Usuário/Documents/Tecnico em Cafeicultura/Tecnico em Informatica/Itera360/Arquitetura em solucoes/Aula-02/Projeto360/Projeto360.Repositorio/bin/Debug/net9.0/Projeto360.Repositorio.runtimeconfig.json
+C:/Users/Usuário/Documents/Tecnico em Cafeicultura/Tecnico em Informatica/Itera360/Arquitetura em solucoes/Aula-02/Projeto360/Projeto360.Repositorio/obj/Debug/net9.0/Projeto360.Repositorio.genruntimeconfig.cache
+C:/Users/Usuário/Documents/Tecnico em Cafeicultura/Tecnico em Informatica/Itera360/Arquitetura em solucoes/Aula-04/Projeto360/Projeto360.Repositorio/bin/Debug/net9.0/Projeto360.Repositorio.deps.json
+C:/Users/Usuário/Documents/Tecnico em Cafeicultura/Tecnico em Informatica/Itera360/Arquitetura em solucoes/Aula-04/Projeto360/Projeto360.Repositorio/bin/Debug/net9.0/Projeto360.Repositorio.runtimeconfig.json
+C:/Users/Usuário/Documents/Tecnico em Cafeicultura/Tecnico em Informatica/Itera360/Arquitetura em solucoes/Aula-04/Projeto360/Projeto360.Repositorio/bin/Debug/net9.0/Projeto360.Repositorio.dll
+C:/Users/Usuário/Documents/Tecnico em Cafeicultura/Tecnico em Informatica/Itera360/Arquitetura em solucoes/Aula-04/Projeto360/Projeto360.Repositorio/bin/Debug/net9.0/Projeto360.Repositorio.pdb
+C:/Users/Usuário/Documents/Tecnico em Cafeicultura/Tecnico em Informatica/Itera360/Arquitetura em solucoes/Aula-04/Projeto360/Projeto360.Repositorio/bin/Debug/net9.0/Projeto360.Dominio.dll
+C:/Users/Usuário/Documents/Tecnico em Cafeicultura/Tecnico em Informatica/Itera360/Arquitetura em solucoes/Aula-04/Projeto360/Projeto360.Repositorio/bin/Debug/net9.0/Projeto360.Dominio.pdb
+C:/Users/Usuário/Documents/Tecnico em Cafeicultura/Tecnico em Informatica/Itera360/Arquitetura em solucoes/Aula-04/Projeto360/Projeto360.Repositorio/obj/Debug/net9.0/Projeto360.Repositorio.csproj.AssemblyReference.cache
+C:/Users/Usuário/Documents/Tecnico em Cafeicultura/Tecnico em Informatica/Itera360/Arquitetura em solucoes/Aula-04/Projeto360/Projeto360.Repositorio/obj/Debug/net9.0/Projeto360.Repositorio.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Usuário/Documents/Tecnico em Cafeicultura/Tecnico em Informatica/Itera360/Arquitetura em solucoes/Aula-04/Projeto360/Projeto360.Repositorio/obj/Debug/net9.0/Projeto360.Repositorio.AssemblyInfoInputs.cache
+C:/Users/Usuário/Documents/Tecnico em Cafeicultura/Tecnico em Informatica/Itera360/Arquitetura em solucoes/Aula-04/Projeto360/Projeto360.Repositorio/obj/Debug/net9.0/Projeto360.Repositorio.AssemblyInfo.cs
+C:/Users/Usuário/Documents/Tecnico em Cafeicultura/Tecnico em Informatica/Itera360/Arquitetura em solucoes/Aula-04/Projeto360/Projeto360.Repositorio/obj/Debug/net9.0/Projeto360.Repositorio.csproj.CoreCompileInputs.cache
+C:/Users/Usuário/Documents/Tecnico em Cafeicultura/Tecnico em Informatica/Itera360/Arquitetura em solucoes/Aula-04/Projeto360/Projeto360.Repositorio/obj/Debug/net9.0/Projeto3.3DC9F0D7.Up2Date
+C:/Users/Usuário/Documents/Tecnico em Cafeicultura/Tecnico em Informatica/Itera360/Arquitetura em solucoes/Aula-04/Projeto360/Projeto360.Repositorio/obj/Debug/net9.0/Projeto360.Repositorio.dll
+C:/Users/Usuário/Documents/Tecnico em Cafeicultura/Tecnico em Informatica/Itera360/Arquitetura em solucoes/Aula-04/Projeto360/Projeto360.Repositorio/obj/Debug/net9.0/refint/Projeto360.Repositorio.dll
+C:/Users/Usuário/Documents/Tecnico em Cafeicultura/Tecnico em Informatica/Itera360/Arquitetura em solucoes/Aula-04/Projeto360/Projeto360.Repositorio/obj/Debug/net9.0/Projeto360.Repositorio.pdb
+C:/Users/Usuário/Documents/Tecnico em Cafeicultura/Tecnico em Informatica/Itera360/Arquitetura em solucoes/Aula-04/Projeto360/Projeto360.Repositorio/obj/Debug/net9.0/Projeto360.Repositorio.genruntimeconfig.cache
+C:/Users/Usuário/Documents/Tecnico em Cafeicultura/Tecnico em Informatica/Itera360/Arquitetura em solucoes/Aula-04/Projeto360/Projeto360.Repositorio/obj/Debug/net9.0/ref/Projeto360.Repositorio.dll
+C:/Users/Usuário/Documents/Tecnico em Cafeicultura/Tecnico em Informatica/Itera360/Arquitetura em solucoes/Aula-05/Projeto360/Projeto360.Repositorio/bin/Debug/net9.0/Projeto360.Repositorio.deps.json
+C:/Users/Usuário/Documents/Tecnico em Cafeicultura/Tecnico em Informatica/Itera360/Arquitetura em solucoes/Aula-05/Projeto360/Projeto360.Repositorio/bin/Debug/net9.0/Projeto360.Repositorio.runtimeconfig.json
+C:/Users/Usuário/Documents/Tecnico em Cafeicultura/Tecnico em Informatica/Itera360/Arquitetura em solucoes/Aula-05/Projeto360/Projeto360.Repositorio/bin/Debug/net9.0/Projeto360.Repositorio.dll
+C:/Users/Usuário/Documents/Tecnico em Cafeicultura/Tecnico em Informatica/Itera360/Arquitetura em solucoes/Aula-05/Projeto360/Projeto360.Repositorio/bin/Debug/net9.0/Projeto360.Repositorio.pdb
+C:/Users/Usuário/Documents/Tecnico em Cafeicultura/Tecnico em Informatica/Itera360/Arquitetura em solucoes/Aula-05/Projeto360/Projeto360.Repositorio/bin/Debug/net9.0/Projeto360.Dominio.dll
+C:/Users/Usuário/Documents/Tecnico em Cafeicultura/Tecnico em Informatica/Itera360/Arquitetura em solucoes/Aula-05/Projeto360/Projeto360.Repositorio/bin/Debug/net9.0/Projeto360.Dominio.pdb
+C:/Users/Usuário/Documents/Tecnico em Cafeicultura/Tecnico em Informatica/Itera360/Arquitetura em solucoes/Aula-05/Projeto360/Projeto360.Repositorio/obj/Debug/net9.0/Projeto360.Repositorio.csproj.AssemblyReference.cache
+C:/Users/Usuário/Documents/Tecnico em Cafeicultura/Tecnico em Informatica/Itera360/Arquitetura em solucoes/Aula-05/Projeto360/Projeto360.Repositorio/obj/Debug/net9.0/Projeto360.Repositorio.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Usuário/Documents/Tecnico em Cafeicultura/Tecnico em Informatica/Itera360/Arquitetura em solucoes/Aula-05/Projeto360/Projeto360.Repositorio/obj/Debug/net9.0/Projeto360.Repositorio.AssemblyInfoInputs.cache
+C:/Users/Usuário/Documents/Tecnico em Cafeicultura/Tecnico em Informatica/Itera360/Arquitetura em solucoes/Aula-05/Projeto360/Projeto360.Repositorio/obj/Debug/net9.0/Projeto360.Repositorio.AssemblyInfo.cs
+C:/Users/Usuário/Documents/Tecnico em Cafeicultura/Tecnico em Informatica/Itera360/Arquitetura em solucoes/Aula-05/Projeto360/Projeto360.Repositorio/obj/Debug/net9.0/Projeto360.Repositorio.csproj.CoreCompileInputs.cache
+C:/Users/Usuário/Documents/Tecnico em Cafeicultura/Tecnico em Informatica/Itera360/Arquitetura em solucoes/Aula-05/Projeto360/Projeto360.Repositorio/obj/Debug/net9.0/Projeto3.3DC9F0D7.Up2Date
+C:/Users/Usuário/Documents/Tecnico em Cafeicultura/Tecnico em Informatica/Itera360/Arquitetura em solucoes/Aula-05/Projeto360/Projeto360.Repositorio/obj/Debug/net9.0/Projeto360.Repositorio.dll
+C:/Users/Usuário/Documents/Tecnico em Cafeicultura/Tecnico em Informatica/Itera360/Arquitetura em solucoes/Aula-05/Projeto360/Projeto360.Repositorio/obj/Debug/net9.0/refint/Projeto360.Repositorio.dll
+C:/Users/Usuário/Documents/Tecnico em Cafeicultura/Tecnico em Informatica/Itera360/Arquitetura em solucoes/Aula-05/Projeto360/Projeto360.Repositorio/obj/Debug/net9.0/Projeto360.Repositorio.pdb
+C:/Users/Usuário/Documents/Tecnico em Cafeicultura/Tecnico em Informatica/Itera360/Arquitetura em solucoes/Aula-05/Projeto360/Projeto360.Repositorio/obj/Debug/net9.0/Projeto360.Repositorio.genruntimeconfig.cache
+C:/Users/Usuário/Documents/Tecnico em Cafeicultura/Tecnico em Informatica/Itera360/Arquitetura em solucoes/Aula-05/Projeto360/Projeto360.Repositorio/obj/Debug/net9.0/ref/Projeto360.Repositorio.dll
+C:/Users/Usuário/Documents/Tecnico em Cafeicultura/Tecnico em Informatica/Itera360/Arquitetura em solucoes/Aula-05_erro/Projeto360/Projeto360.Repositorio/bin/Debug/net9.0/Projeto360.Repositorio.deps.json
+C:/Users/Usuário/Documents/Tecnico em Cafeicultura/Tecnico em Informatica/Itera360/Arquitetura em solucoes/Aula-05_erro/Projeto360/Projeto360.Repositorio/bin/Debug/net9.0/Projeto360.Repositorio.runtimeconfig.json
+C:/Users/Usuário/Documents/Tecnico em Cafeicultura/Tecnico em Informatica/Itera360/Arquitetura em solucoes/Aula-05_erro/Projeto360/Projeto360.Repositorio/bin/Debug/net9.0/Projeto360.Repositorio.dll
+C:/Users/Usuário/Documents/Tecnico em Cafeicultura/Tecnico em Informatica/Itera360/Arquitetura em solucoes/Aula-05_erro/Projeto360/Projeto360.Repositorio/bin/Debug/net9.0/Projeto360.Repositorio.pdb
+C:/Users/Usuário/Documents/Tecnico em Cafeicultura/Tecnico em Informatica/Itera360/Arquitetura em solucoes/Aula-05_erro/Projeto360/Projeto360.Repositorio/bin/Debug/net9.0/Projeto360.Dominio.dll
+C:/Users/Usuário/Documents/Tecnico em Cafeicultura/Tecnico em Informatica/Itera360/Arquitetura em solucoes/Aula-05_erro/Projeto360/Projeto360.Repositorio/bin/Debug/net9.0/Projeto360.Dominio.pdb
+C:/Users/Usuário/Documents/Tecnico em Cafeicultura/Tecnico em Informatica/Itera360/Arquitetura em solucoes/Aula-05_erro/Projeto360/Projeto360.Repositorio/obj/Debug/net9.0/Projeto360.Repositorio.csproj.AssemblyReference.cache
+C:/Users/Usuário/Documents/Tecnico em Cafeicultura/Tecnico em Informatica/Itera360/Arquitetura em solucoes/Aula-05_erro/Projeto360/Projeto360.Repositorio/obj/Debug/net9.0/Projeto360.Repositorio.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Usuário/Documents/Tecnico em Cafeicultura/Tecnico em Informatica/Itera360/Arquitetura em solucoes/Aula-05_erro/Projeto360/Projeto360.Repositorio/obj/Debug/net9.0/Projeto360.Repositorio.AssemblyInfoInputs.cache
+C:/Users/Usuário/Documents/Tecnico em Cafeicultura/Tecnico em Informatica/Itera360/Arquitetura em solucoes/Aula-05_erro/Projeto360/Projeto360.Repositorio/obj/Debug/net9.0/Projeto360.Repositorio.AssemblyInfo.cs
+C:/Users/Usuário/Documents/Tecnico em Cafeicultura/Tecnico em Informatica/Itera360/Arquitetura em solucoes/Aula-05_erro/Projeto360/Projeto360.Repositorio/obj/Debug/net9.0/Projeto360.Repositorio.csproj.CoreCompileInputs.cache
+C:/Users/Usuário/Documents/Tecnico em Cafeicultura/Tecnico em Informatica/Itera360/Arquitetura em solucoes/Aula-05_erro/Projeto360/Projeto360.Repositorio/obj/Debug/net9.0/Projeto3.3DC9F0D7.Up2Date
+C:/Users/Usuário/Documents/Tecnico em Cafeicultura/Tecnico em Informatica/Itera360/Arquitetura em solucoes/Aula-05_erro/Projeto360/Projeto360.Repositorio/obj/Debug/net9.0/Projeto360.Repositorio.dll
+C:/Users/Usuário/Documents/Tecnico em Cafeicultura/Tecnico em Informatica/Itera360/Arquitetura em solucoes/Aula-05_erro/Projeto360/Projeto360.Repositorio/obj/Debug/net9.0/refint/Projeto360.Repositorio.dll
+C:/Users/Usuário/Documents/Tecnico em Cafeicultura/Tecnico em Informatica/Itera360/Arquitetura em solucoes/Aula-05_erro/Projeto360/Projeto360.Repositorio/obj/Debug/net9.0/Projeto360.Repositorio.pdb
+C:/Users/Usuário/Documents/Tecnico em Cafeicultura/Tecnico em Informatica/Itera360/Arquitetura em solucoes/Aula-05_erro/Projeto360/Projeto360.Repositorio/obj/Debug/net9.0/Projeto360.Repositorio.genruntimeconfig.cache
+C:/Users/Usuário/Documents/Tecnico em Cafeicultura/Tecnico em Informatica/Itera360/Arquitetura em solucoes/Aula-05_erro/Projeto360/Projeto360.Repositorio/obj/Debug/net9.0/ref/Projeto360.Repositorio.dll
+C:/Users/Usuário/Documents/Tecnico em Cafeicultura/Tecnico em Informatica/Itera360/Arquitetura em solucoes/Aula-05_V9/Projeto360/Projeto360.Repositorio/bin/Debug/net9.0/Projeto360.Repositorio.deps.json
+C:/Users/Usuário/Documents/Tecnico em Cafeicultura/Tecnico em Informatica/Itera360/Arquitetura em solucoes/Aula-05_V9/Projeto360/Projeto360.Repositorio/bin/Debug/net9.0/Projeto360.Repositorio.runtimeconfig.json
+C:/Users/Usuário/Documents/Tecnico em Cafeicultura/Tecnico em Informatica/Itera360/Arquitetura em solucoes/Aula-05_V9/Projeto360/Projeto360.Repositorio/bin/Debug/net9.0/Projeto360.Repositorio.dll
+C:/Users/Usuário/Documents/Tecnico em Cafeicultura/Tecnico em Informatica/Itera360/Arquitetura em solucoes/Aula-05_V9/Projeto360/Projeto360.Repositorio/bin/Debug/net9.0/Projeto360.Repositorio.pdb
+C:/Users/Usuário/Documents/Tecnico em Cafeicultura/Tecnico em Informatica/Itera360/Arquitetura em solucoes/Aula-05_V9/Projeto360/Projeto360.Repositorio/bin/Debug/net9.0/Projeto360.Dominio.dll
+C:/Users/Usuário/Documents/Tecnico em Cafeicultura/Tecnico em Informatica/Itera360/Arquitetura em solucoes/Aula-05_V9/Projeto360/Projeto360.Repositorio/bin/Debug/net9.0/Projeto360.Dominio.pdb
+C:/Users/Usuário/Documents/Tecnico em Cafeicultura/Tecnico em Informatica/Itera360/Arquitetura em solucoes/Aula-05_V9/Projeto360/Projeto360.Repositorio/obj/Debug/net9.0/Projeto360.Repositorio.csproj.AssemblyReference.cache
+C:/Users/Usuário/Documents/Tecnico em Cafeicultura/Tecnico em Informatica/Itera360/Arquitetura em solucoes/Aula-05_V9/Projeto360/Projeto360.Repositorio/obj/Debug/net9.0/Projeto360.Repositorio.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Usuário/Documents/Tecnico em Cafeicultura/Tecnico em Informatica/Itera360/Arquitetura em solucoes/Aula-05_V9/Projeto360/Projeto360.Repositorio/obj/Debug/net9.0/Projeto360.Repositorio.AssemblyInfoInputs.cache
+C:/Users/Usuário/Documents/Tecnico em Cafeicultura/Tecnico em Informatica/Itera360/Arquitetura em solucoes/Aula-05_V9/Projeto360/Projeto360.Repositorio/obj/Debug/net9.0/Projeto360.Repositorio.AssemblyInfo.cs
+C:/Users/Usuário/Documents/Tecnico em Cafeicultura/Tecnico em Informatica/Itera360/Arquitetura em solucoes/Aula-05_V9/Projeto360/Projeto360.Repositorio/obj/Debug/net9.0/Projeto360.Repositorio.csproj.CoreCompileInputs.cache
+C:/Users/Usuário/Documents/Tecnico em Cafeicultura/Tecnico em Informatica/Itera360/Arquitetura em solucoes/Aula-05_V9/Projeto360/Projeto360.Repositorio/obj/Debug/net9.0/Projeto3.3DC9F0D7.Up2Date
+C:/Users/Usuário/Documents/Tecnico em Cafeicultura/Tecnico em Informatica/Itera360/Arquitetura em solucoes/Aula-05_V9/Projeto360/Projeto360.Repositorio/obj/Debug/net9.0/Projeto360.Repositorio.dll
+C:/Users/Usuário/Documents/Tecnico em Cafeicultura/Tecnico em Informatica/Itera360/Arquitetura em solucoes/Aula-05_V9/Projeto360/Projeto360.Repositorio/obj/Debug/net9.0/refint/Projeto360.Repositorio.dll
+C:/Users/Usuário/Documents/Tecnico em Cafeicultura/Tecnico em Informatica/Itera360/Arquitetura em solucoes/Aula-05_V9/Projeto360/Projeto360.Repositorio/obj/Debug/net9.0/Projeto360.Repositorio.pdb
+C:/Users/Usuário/Documents/Tecnico em Cafeicultura/Tecnico em Informatica/Itera360/Arquitetura em solucoes/Aula-05_V9/Projeto360/Projeto360.Repositorio/obj/Debug/net9.0/Projeto360.Repositorio.genruntimeconfig.cache
+C:/Users/Usuário/Documents/Tecnico em Cafeicultura/Tecnico em Informatica/Itera360/Arquitetura em solucoes/Aula-05_V9/Projeto360/Projeto360.Repositorio/obj/Debug/net9.0/ref/Projeto360.Repositorio.dll
+C:/Users/Usuário/Documents/Tecnico em Cafeicultura/Tecnico em Informatica/Itera360/Arquitetura em solucoes/Aula-06/Projeto360/Projeto360.Repositorio/bin/Debug/net9.0/Projeto360.Repositorio.deps.json
+C:/Users/Usuário/Documents/Tecnico em Cafeicultura/Tecnico em Informatica/Itera360/Arquitetura em solucoes/Aula-06/Projeto360/Projeto360.Repositorio/bin/Debug/net9.0/Projeto360.Repositorio.runtimeconfig.json
+C:/Users/Usuário/Documents/Tecnico em Cafeicultura/Tecnico em Informatica/Itera360/Arquitetura em solucoes/Aula-06/Projeto360/Projeto360.Repositorio/bin/Debug/net9.0/Projeto360.Repositorio.dll
+C:/Users/Usuário/Documents/Tecnico em Cafeicultura/Tecnico em Informatica/Itera360/Arquitetura em solucoes/Aula-06/Projeto360/Projeto360.Repositorio/bin/Debug/net9.0/Projeto360.Repositorio.pdb
+C:/Users/Usuário/Documents/Tecnico em Cafeicultura/Tecnico em Informatica/Itera360/Arquitetura em solucoes/Aula-06/Projeto360/Projeto360.Repositorio/bin/Debug/net9.0/Projeto360.Dominio.dll
+C:/Users/Usuário/Documents/Tecnico em Cafeicultura/Tecnico em Informatica/Itera360/Arquitetura em solucoes/Aula-06/Projeto360/Projeto360.Repositorio/bin/Debug/net9.0/Projeto360.Dominio.pdb
+C:/Users/Usuário/Documents/Tecnico em Cafeicultura/Tecnico em Informatica/Itera360/Arquitetura em solucoes/Aula-06/Projeto360/Projeto360.Repositorio/obj/Debug/net9.0/Projeto360.Repositorio.csproj.AssemblyReference.cache
+C:/Users/Usuário/Documents/Tecnico em Cafeicultura/Tecnico em Informatica/Itera360/Arquitetura em solucoes/Aula-06/Projeto360/Projeto360.Repositorio/obj/Debug/net9.0/Projeto360.Repositorio.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Usuário/Documents/Tecnico em Cafeicultura/Tecnico em Informatica/Itera360/Arquitetura em solucoes/Aula-06/Projeto360/Projeto360.Repositorio/obj/Debug/net9.0/Projeto360.Repositorio.AssemblyInfoInputs.cache
+C:/Users/Usuário/Documents/Tecnico em Cafeicultura/Tecnico em Informatica/Itera360/Arquitetura em solucoes/Aula-06/Projeto360/Projeto360.Repositorio/obj/Debug/net9.0/Projeto360.Repositorio.AssemblyInfo.cs
+C:/Users/Usuário/Documents/Tecnico em Cafeicultura/Tecnico em Informatica/Itera360/Arquitetura em solucoes/Aula-06/Projeto360/Projeto360.Repositorio/obj/Debug/net9.0/Projeto360.Repositorio.csproj.CoreCompileInputs.cache
+C:/Users/Usuário/Documents/Tecnico em Cafeicultura/Tecnico em Informatica/Itera360/Arquitetura em solucoes/Aula-06/Projeto360/Projeto360.Repositorio/obj/Debug/net9.0/Projeto3.3DC9F0D7.Up2Date
+C:/Users/Usuário/Documents/Tecnico em Cafeicultura/Tecnico em Informatica/Itera360/Arquitetura em solucoes/Aula-06/Projeto360/Projeto360.Repositorio/obj/Debug/net9.0/Projeto360.Repositorio.dll
+C:/Users/Usuário/Documents/Tecnico em Cafeicultura/Tecnico em Informatica/Itera360/Arquitetura em solucoes/Aula-06/Projeto360/Projeto360.Repositorio/obj/Debug/net9.0/refint/Projeto360.Repositorio.dll
+C:/Users/Usuário/Documents/Tecnico em Cafeicultura/Tecnico em Informatica/Itera360/Arquitetura em solucoes/Aula-06/Projeto360/Projeto360.Repositorio/obj/Debug/net9.0/Projeto360.Repositorio.pdb
+C:/Users/Usuário/Documents/Tecnico em Cafeicultura/Tecnico em Informatica/Itera360/Arquitetura em solucoes/Aula-06/Projeto360/Projeto360.Repositorio/obj/Debug/net9.0/Projeto360.Repositorio.genruntimeconfig.cache
+C:/Users/Usuário/Documents/Tecnico em Cafeicultura/Tecnico em Informatica/Itera360/Arquitetura em solucoes/Aula-06/Projeto360/Projeto360.Repositorio/obj/Debug/net9.0/ref/Projeto360.Repositorio.dll
+C:/Users/Usuário/Documents/Tecnico em Cafeicultura/Tecnico em Informatica/Itera360/Arquitetura em solucoes/Aula-07/Projeto360/Projeto360.Repositorio/bin/Debug/net9.0/Projeto360.Repositorio.deps.json
+C:/Users/Usuário/Documents/Tecnico em Cafeicultura/Tecnico em Informatica/Itera360/Arquitetura em solucoes/Aula-07/Projeto360/Projeto360.Repositorio/bin/Debug/net9.0/Projeto360.Repositorio.runtimeconfig.json
+C:/Users/Usuário/Documents/Tecnico em Cafeicultura/Tecnico em Informatica/Itera360/Arquitetura em solucoes/Aula-07/Projeto360/Projeto360.Repositorio/bin/Debug/net9.0/Projeto360.Repositorio.dll
+C:/Users/Usuário/Documents/Tecnico em Cafeicultura/Tecnico em Informatica/Itera360/Arquitetura em solucoes/Aula-07/Projeto360/Projeto360.Repositorio/bin/Debug/net9.0/Projeto360.Repositorio.pdb
+C:/Users/Usuário/Documents/Tecnico em Cafeicultura/Tecnico em Informatica/Itera360/Arquitetura em solucoes/Aula-07/Projeto360/Projeto360.Repositorio/bin/Debug/net9.0/Projeto360.Dominio.dll
+C:/Users/Usuário/Documents/Tecnico em Cafeicultura/Tecnico em Informatica/Itera360/Arquitetura em solucoes/Aula-07/Projeto360/Projeto360.Repositorio/bin/Debug/net9.0/Projeto360.Dominio.pdb
+C:/Users/Usuário/Documents/Tecnico em Cafeicultura/Tecnico em Informatica/Itera360/Arquitetura em solucoes/Aula-07/Projeto360/Projeto360.Repositorio/obj/Debug/net9.0/Projeto360.Repositorio.csproj.AssemblyReference.cache
+C:/Users/Usuário/Documents/Tecnico em Cafeicultura/Tecnico em Informatica/Itera360/Arquitetura em solucoes/Aula-07/Projeto360/Projeto360.Repositorio/obj/Debug/net9.0/Projeto360.Repositorio.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Usuário/Documents/Tecnico em Cafeicultura/Tecnico em Informatica/Itera360/Arquitetura em solucoes/Aula-07/Projeto360/Projeto360.Repositorio/obj/Debug/net9.0/Projeto360.Repositorio.AssemblyInfoInputs.cache
+C:/Users/Usuário/Documents/Tecnico em Cafeicultura/Tecnico em Informatica/Itera360/Arquitetura em solucoes/Aula-07/Projeto360/Projeto360.Repositorio/obj/Debug/net9.0/Projeto360.Repositorio.AssemblyInfo.cs
+C:/Users/Usuário/Documents/Tecnico em Cafeicultura/Tecnico em Informatica/Itera360/Arquitetura em solucoes/Aula-07/Projeto360/Projeto360.Repositorio/obj/Debug/net9.0/Projeto360.Repositorio.csproj.CoreCompileInputs.cache
+C:/Users/Usuário/Documents/Tecnico em Cafeicultura/Tecnico em Informatica/Itera360/Arquitetura em solucoes/Aula-07/Projeto360/Projeto360.Repositorio/obj/Debug/net9.0/Projeto3.3DC9F0D7.Up2Date
+C:/Users/Usuário/Documents/Tecnico em Cafeicultura/Tecnico em Informatica/Itera360/Arquitetura em solucoes/Aula-07/Projeto360/Projeto360.Repositorio/obj/Debug/net9.0/Projeto360.Repositorio.dll
+C:/Users/Usuário/Documents/Tecnico em Cafeicultura/Tecnico em Informatica/Itera360/Arquitetura em solucoes/Aula-07/Projeto360/Projeto360.Repositorio/obj/Debug/net9.0/refint/Projeto360.Repositorio.dll
+C:/Users/Usuário/Documents/Tecnico em Cafeicultura/Tecnico em Informatica/Itera360/Arquitetura em solucoes/Aula-07/Projeto360/Projeto360.Repositorio/obj/Debug/net9.0/Projeto360.Repositorio.pdb
+C:/Users/Usuário/Documents/Tecnico em Cafeicultura/Tecnico em Informatica/Itera360/Arquitetura em solucoes/Aula-07/Projeto360/Projeto360.Repositorio/obj/Debug/net9.0/Projeto360.Repositorio.genruntimeconfig.cache
+C:/Users/Usuário/Documents/Tecnico em Cafeicultura/Tecnico em Informatica/Itera360/Arquitetura em solucoes/Aula-07/Projeto360/Projeto360.Repositorio/obj/Debug/net9.0/ref/Projeto360.Repositorio.dll
+/Users/gabrielruas/Documents/Itera360/Arquitetura e solucoes Aula-07/Projeto360/Projeto360.Repositorio/bin/Debug/net9.0/Projeto360.Repositorio.deps.json
+/Users/gabrielruas/Documents/Itera360/Arquitetura e solucoes Aula-07/Projeto360/Projeto360.Repositorio/bin/Debug/net9.0/Projeto360.Repositorio.runtimeconfig.json
+/Users/gabrielruas/Documents/Itera360/Arquitetura e solucoes Aula-07/Projeto360/Projeto360.Repositorio/bin/Debug/net9.0/Projeto360.Repositorio.dll
+/Users/gabrielruas/Documents/Itera360/Arquitetura e solucoes Aula-07/Projeto360/Projeto360.Repositorio/bin/Debug/net9.0/Projeto360.Repositorio.pdb
+/Users/gabrielruas/Documents/Itera360/Arquitetura e solucoes Aula-07/Projeto360/Projeto360.Repositorio/bin/Debug/net9.0/Projeto360.Dominio.dll
+/Users/gabrielruas/Documents/Itera360/Arquitetura e solucoes Aula-07/Projeto360/Projeto360.Repositorio/bin/Debug/net9.0/Projeto360.Dominio.pdb
+/Users/gabrielruas/Documents/Itera360/Arquitetura e solucoes Aula-07/Projeto360/Projeto360.Repositorio/obj/Debug/net9.0/Projeto360.Repositorio.csproj.AssemblyReference.cache
+/Users/gabrielruas/Documents/Itera360/Arquitetura e solucoes Aula-07/Projeto360/Projeto360.Repositorio/obj/Debug/net9.0/Projeto360.Repositorio.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gabrielruas/Documents/Itera360/Arquitetura e solucoes Aula-07/Projeto360/Projeto360.Repositorio/obj/Debug/net9.0/Projeto360.Repositorio.AssemblyInfoInputs.cache
+/Users/gabrielruas/Documents/Itera360/Arquitetura e solucoes Aula-07/Projeto360/Projeto360.Repositorio/obj/Debug/net9.0/Projeto360.Repositorio.AssemblyInfo.cs
+/Users/gabrielruas/Documents/Itera360/Arquitetura e solucoes Aula-07/Projeto360/Projeto360.Repositorio/obj/Debug/net9.0/Projeto360.Repositorio.csproj.CoreCompileInputs.cache
+/Users/gabrielruas/Documents/Itera360/Arquitetura e solucoes Aula-07/Projeto360/Projeto360.Repositorio/obj/Debug/net9.0/Projeto3.3DC9F0D7.Up2Date
+/Users/gabrielruas/Documents/Itera360/Arquitetura e solucoes Aula-07/Projeto360/Projeto360.Repositorio/obj/Debug/net9.0/Projeto360.Repositorio.dll
+/Users/gabrielruas/Documents/Itera360/Arquitetura e solucoes Aula-07/Projeto360/Projeto360.Repositorio/obj/Debug/net9.0/refint/Projeto360.Repositorio.dll
+/Users/gabrielruas/Documents/Itera360/Arquitetura e solucoes Aula-07/Projeto360/Projeto360.Repositorio/obj/Debug/net9.0/Projeto360.Repositorio.pdb
+/Users/gabrielruas/Documents/Itera360/Arquitetura e solucoes Aula-07/Projeto360/Projeto360.Repositorio/obj/Debug/net9.0/Projeto360.Repositorio.genruntimeconfig.cache
+/Users/gabrielruas/Documents/Itera360/Arquitetura e solucoes Aula-07/Projeto360/Projeto360.Repositorio/obj/Debug/net9.0/ref/Projeto360.Repositorio.dll
+/Users/gabrielruas/Desktop/Gabriel/1-Projetos/Projeto360-Gabriel/Projeto360.Repositorio/bin/Debug/net9.0/Projeto360.Repositorio.deps.json
+/Users/gabrielruas/Desktop/Gabriel/1-Projetos/Projeto360-Gabriel/Projeto360.Repositorio/bin/Debug/net9.0/Projeto360.Repositorio.runtimeconfig.json
+/Users/gabrielruas/Desktop/Gabriel/1-Projetos/Projeto360-Gabriel/Projeto360.Repositorio/bin/Debug/net9.0/Projeto360.Repositorio.dll
+/Users/gabrielruas/Desktop/Gabriel/1-Projetos/Projeto360-Gabriel/Projeto360.Repositorio/bin/Debug/net9.0/Projeto360.Repositorio.pdb
+/Users/gabrielruas/Desktop/Gabriel/1-Projetos/Projeto360-Gabriel/Projeto360.Repositorio/bin/Debug/net9.0/Projeto360.Dominio.dll
+/Users/gabrielruas/Desktop/Gabriel/1-Projetos/Projeto360-Gabriel/Projeto360.Repositorio/bin/Debug/net9.0/Projeto360.Dominio.pdb
+/Users/gabrielruas/Desktop/Gabriel/1-Projetos/Projeto360-Gabriel/Projeto360.Repositorio/obj/Debug/net9.0/Projeto360.Repositorio.csproj.AssemblyReference.cache
+/Users/gabrielruas/Desktop/Gabriel/1-Projetos/Projeto360-Gabriel/Projeto360.Repositorio/obj/Debug/net9.0/Projeto360.Repositorio.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gabrielruas/Desktop/Gabriel/1-Projetos/Projeto360-Gabriel/Projeto360.Repositorio/obj/Debug/net9.0/Projeto360.Repositorio.AssemblyInfoInputs.cache
+/Users/gabrielruas/Desktop/Gabriel/1-Projetos/Projeto360-Gabriel/Projeto360.Repositorio/obj/Debug/net9.0/Projeto360.Repositorio.AssemblyInfo.cs
+/Users/gabrielruas/Desktop/Gabriel/1-Projetos/Projeto360-Gabriel/Projeto360.Repositorio/obj/Debug/net9.0/Projeto360.Repositorio.csproj.CoreCompileInputs.cache
+/Users/gabrielruas/Desktop/Gabriel/1-Projetos/Projeto360-Gabriel/Projeto360.Repositorio/obj/Debug/net9.0/Projeto3.3DC9F0D7.Up2Date
+/Users/gabrielruas/Desktop/Gabriel/1-Projetos/Projeto360-Gabriel/Projeto360.Repositorio/obj/Debug/net9.0/Projeto360.Repositorio.dll
+/Users/gabrielruas/Desktop/Gabriel/1-Projetos/Projeto360-Gabriel/Projeto360.Repositorio/obj/Debug/net9.0/refint/Projeto360.Repositorio.dll
+/Users/gabrielruas/Desktop/Gabriel/1-Projetos/Projeto360-Gabriel/Projeto360.Repositorio/obj/Debug/net9.0/Projeto360.Repositorio.pdb
+/Users/gabrielruas/Desktop/Gabriel/1-Projetos/Projeto360-Gabriel/Projeto360.Repositorio/obj/Debug/net9.0/Projeto360.Repositorio.genruntimeconfig.cache
+/Users/gabrielruas/Desktop/Gabriel/1-Projetos/Projeto360-Gabriel/Projeto360.Repositorio/obj/Debug/net9.0/ref/Projeto360.Repositorio.dll
