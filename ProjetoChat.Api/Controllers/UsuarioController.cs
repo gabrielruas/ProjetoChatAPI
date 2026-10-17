@@ -35,7 +35,7 @@ namespace ProjetoChat.Api
                     Nome = usuarioCriar.Nome,
                     Email = usuarioCriar.Email,
                     Senha = usuarioCriar.Senha,
-                    online = false
+                    Online = usuarioCriar.Online
                 };
 
                 var usuarioID = _usuarioAplicacao.Criar(usuarioDominio);
@@ -60,7 +60,7 @@ namespace ProjetoChat.Api
                     Id = usuarioDominio.ID,
                     Nome = usuarioDominio.Nome,
                     Email = usuarioDominio.Email,
-                    online = usuarioDominio.online
+                    Online = usuarioDominio.Online
                 };
                 return Ok(usuarioResposta);
 
@@ -81,7 +81,8 @@ namespace ProjetoChat.Api
                 {
                     ID = dto.ID,
                     Nome = dto.Nome,
-                    Email = dto.Email
+                    Email = dto.Email,
+                    Online = dto.Online
                 };
                 _usuarioAplicacao.Atualizar(usuario);
                 return Ok();
@@ -158,7 +159,7 @@ namespace ProjetoChat.Api
                     Id = x.ID,
                     Nome = x.Nome,
                     Email = x.Email,
-                    online = x.online
+                    Online = x.Online
                 }).ToList();
 
                 return Ok(usuarios);

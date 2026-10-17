@@ -5,5 +5,6 @@ namespace ProjetoChat.Api.Model.Requisicao
         public int ID {get; set;}
         public string Nome {get; set;}
         public string Email {get; set;}
+        public bool Online {get; set;}
     }
 }
