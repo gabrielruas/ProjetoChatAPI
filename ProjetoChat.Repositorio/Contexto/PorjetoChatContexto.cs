@@ -9,6 +9,7 @@ public class ProjetoChatContexto : DbContext
 
 
     public DbSet<Usuario> Usuarios { get; set; }
+    public DbSet<Atendimento> Atendimentos { get; set; }
     public ProjetoChatContexto()
     {
         
@@ -31,5 +32,6 @@ public class ProjetoChatContexto : DbContext
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
         modelBuilder.ApplyConfiguration(new UsuarioConfiguracoes());
+        modelBuilder.ApplyConfiguration(new AtendimentoConfiguracoes());
     }
 }

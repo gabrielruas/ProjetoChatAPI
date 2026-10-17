@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ProjetoChat.Repositorio")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+81f4b069bd6248a293060f2a3ecbdad6e9f91ea5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6c7e0b7908adb72ac8bd44794affa102669144fd")]
 [assembly: System.Reflection.AssemblyProductAttribute("ProjetoChat.Repositorio")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ProjetoChat.Repositorio")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
