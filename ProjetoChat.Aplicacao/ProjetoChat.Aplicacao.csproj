@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <ItemGroup>
+    <ProjectReference Include="..\ProjetoChat.Repositorio\ProjetoChat.Repositorio.csproj" />
+    <ProjectReference Include="..\ProjetoChat.Dominio\ProjetoChat.Dominio.csproj" />
+    <ProjectReference Include="..\ProjetoChat.Servicos\ProjetoChat.Servicos.csproj" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>disable</Nullable>
+  </PropertyGroup>
+
+</Project>

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "a+IA1mltad0=",
+  "success": true,
+  "projectFilePath": "/Users/gabrielruas/Desktop/Gabriel/1-Projetos/ProjetoChat_ProCafeiro/ProjetoChat_API - cópia/ProjetoChat.Servicos/ProjetoChat.Servicos.csproj",
+  "expectedPackageFiles": [
+    "/Users/gabrielruas/.nuget/packages/newtonsoft.json/13.0.4/newtonsoft.json.13.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
