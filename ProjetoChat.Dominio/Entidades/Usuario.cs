@@ -6,7 +6,7 @@ public class Usuario
     public string Email {get; set;}
     public string Senha {get; set;} 
     public bool Ativo {get; set;}
-    public bool online {get; set;}
+    public bool Online {get; set;}
 
     public Usuario()
     {

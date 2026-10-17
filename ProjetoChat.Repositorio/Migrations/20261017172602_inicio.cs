@@ -19,7 +19,8 @@ namespace ProjetoChat.Repositorio.Migrations
                     Nome = table.Column<string>(type: "TEXT", nullable: false),
                     Email = table.Column<string>(type: "TEXT", nullable: false),
                     Senha = table.Column<string>(type: "TEXT", nullable: false),
-                    Ativo = table.Column<bool>(type: "INTEGER", nullable: false)
+                    Ativo = table.Column<bool>(type: "INTEGER", nullable: false),
+                    Online = table.Column<bool>(type: "INTEGER", nullable: false)
                 },
                 constraints: table =>
                 {

@@ -36,6 +36,10 @@ namespace ProjetoChat.Repositorio.Migrations
                         .HasColumnType("TEXT")
                         .HasColumnName("Nome");
 
+                    b.Property<bool>("Online")
+                        .HasColumnType("INTEGER")
+                        .HasColumnName("Online");
+
                     b.Property<string>("Senha")
                         .IsRequired()
                         .HasColumnType("TEXT")
