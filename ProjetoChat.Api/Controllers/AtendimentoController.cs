@@ -1,3 +1,4 @@
+
 using System;
 using System.Linq;
 using System.Threading.Tasks;
@@ -15,13 +16,16 @@ public class AtendimentoController : ControllerBase
 {
     private readonly IAtendimentoAplicacao _atendimentoAplicacao;
 
-    public AtendimentoController(IAtendimentoAplicacao atendimentoAplicacao)
+    public AtendimentoController(
+        IAtendimentoAplicacao atendimentoAplicacao)
     {
         _atendimentoAplicacao = atendimentoAplicacao;
     }
 
+    // Criar atendimento
     [HttpPost("Criar")]
-    public async Task<ActionResult> Criar([FromBody] AtendimentoCriar dto)
+    public async Task<ActionResult<AtendimentoResposta>> Criar(
+        [FromBody] AtendimentoCriar dto)
     {
         try
         {
@@ -32,93 +36,186 @@ public class AtendimentoController : ControllerBase
                 Celular = dto.Celular,
                 Assunto = dto.Assunto
             };
+
             var id = await _atendimentoAplicacao.Criar(atendimento);
-            return CreatedAtAction(nameof(Obter), new { atendimentoId = id }, Mapear(atendimento));
+
+            var atendimentoCriado = _atendimentoAplicacao.Obter(id);
+
+            return CreatedAtAction(
+                nameof(Obter),
+                new { atendimentoId = id },
+                Mapear(atendimentoCriado));
         }
-        catch (ArgumentException ex) { return BadRequest(ex.Message); }
+        catch (ArgumentException ex)
+        {
+            return BadRequest(ex.Message);
+        }
     }
 
+    // Obter atendimento pelo ID
     [HttpGet("Obter/{atendimentoId:int}")]
-    public ActionResult<AtendimentoResposta> Obter([FromRoute] int atendimentoId)
-    {
-        try { return Ok(Mapear(_atendimentoAplicacao.Obter(atendimentoId))); }
-        catch (ArgumentException ex) { return BadRequest(ex.Message); }
-        catch (InvalidOperationException ex) { return NotFound(ex.Message); }
-    }
-
-    [HttpPut("Atualizar")]
-    public async Task<ActionResult> Atualizar([FromBody] AtendimentoAtualizar dto)
+    public ActionResult<AtendimentoResposta> Obter(
+        [FromRoute] int atendimentoId)
     {
         try
         {
-            await _atendimentoAplicacao.Atualizar(new Atendimento
+            var atendimento = _atendimentoAplicacao.Obter(atendimentoId);
+
+            return Ok(Mapear(atendimento));
+        }
+        catch (ArgumentException ex)
+        {
+            return BadRequest(ex.Message);
+        }
+        catch (InvalidOperationException ex)
+        {
+            return NotFound(ex.Message);
+        }
+    }
+
+    // Atualizar dados do atendimento
+    [HttpPut("Atualizar")]
+    public async Task<IActionResult> Atualizar(
+        [FromBody] AtendimentoAtualizar dto)
+    {
+        try
+        {
+            var atendimento = new Atendimento
             {
                 ID = dto.ID,
                 NomeCliente = dto.NomeCliente,
                 EmailCliente = dto.EmailCliente,
                 Celular = dto.Celular,
                 Assunto = dto.Assunto
-            });
+            };
+
+            await _atendimentoAplicacao.Atualizar(atendimento);
+
             return NoContent();
         }
-        catch (ArgumentException ex) { return BadRequest(ex.Message); }
-        catch (InvalidOperationException ex) { return NotFound(ex.Message); }
+        catch (ArgumentException ex)
+        {
+            return BadRequest(ex.Message);
+        }
+        catch (InvalidOperationException ex)
+        {
+            return NotFound(ex.Message);
+        }
     }
 
+    // Listar todos os atendimentos
     [HttpGet("Listar")]
-    public ActionResult Listar()
+    public IActionResult Listar()
     {
-        return Ok(_atendimentoAplicacao.Listar().Select(Mapear).ToList());
+        var atendimentos = _atendimentoAplicacao
+            .Listar()
+            .Select(Mapear)
+            .ToList();
+
+        return Ok(atendimentos);
     }
 
+    // Listar atendimentos por status
     [HttpGet("ListarPorStatus")]
-    public ActionResult ListarPorStatus([FromQuery] string status)
+    public IActionResult ListarPorStatus(
+        [FromQuery] string status)
     {
-        try { return Ok(_atendimentoAplicacao.ListarPorStatus(status).Select(Mapear).ToList()); }
-        catch (ArgumentException ex) { return BadRequest(ex.Message); }
+        try
+        {
+            var atendimentos = _atendimentoAplicacao
+                .ListarPorStatus(status)
+                .Select(Mapear)
+                .ToList();
+
+            return Ok(atendimentos);
+        }
+        catch (ArgumentException ex)
+        {
+            return BadRequest(ex.Message);
+        }
     }
 
+    // Listar atendimentos por funcionário
     [HttpGet("ListarPorFuncionario/{funcionarioId:int}")]
-    public ActionResult ListarPorFuncionario([FromRoute] int funcionarioId)
+    public IActionResult ListarPorFuncionario(
+        [FromRoute] int funcionarioId)
     {
-        try { return Ok(_atendimentoAplicacao.ListarPorFuncionario(funcionarioId).Select(Mapear).ToList()); }
-        catch (ArgumentException ex) { return BadRequest(ex.Message); }
+        try
+        {
+            var atendimentos = _atendimentoAplicacao
+                .ListarPorFuncionario(funcionarioId)
+                .Select(Mapear)
+                .ToList();
+
+            return Ok(atendimentos);
+        }
+        catch (ArgumentException ex)
+        {
+            return BadRequest(ex.Message);
+        }
     }
 
+    // Funcionário assume o atendimento
     [HttpPut("Iniciar/{atendimentoId:int}")]
-    public async Task<ActionResult> Iniciar([FromRoute] int atendimentoId, [FromBody] AtendimentoIniciar dto)
+    public async Task<IActionResult> Iniciar(
+        [FromRoute] int atendimentoId,
+        [FromBody] AtendimentoIniciar dto)
     {
         try
         {
-            await _atendimentoAplicacao.IniciarAtendimento(atendimentoId, dto.FuncionarioID);
+            await _atendimentoAplicacao.IniciarAtendimento(
+                atendimentoId,
+                dto.FuncionarioID);
+
             return NoContent();
         }
-        catch (ArgumentException ex) { return BadRequest(ex.Message); }
-        catch (InvalidOperationException ex) { return BadRequest(ex.Message); }
+        catch (ArgumentException ex)
+        {
+            return BadRequest(ex.Message);
+        }
+        catch (InvalidOperationException ex)
+        {
+            return Conflict(ex.Message);
+        }
     }
 
+    // Finalizar atendimento
     [HttpPut("Finalizar/{atendimentoId:int}")]
-    public async Task<ActionResult> Finalizar([FromRoute] int atendimentoId)
+    public async Task<IActionResult> Finalizar(
+        [FromRoute] int atendimentoId)
     {
         try
         {
-            await _atendimentoAplicacao.FinalizarAtendimento(atendimentoId);
+            await _atendimentoAplicacao.FinalizarAtendimento(
+                atendimentoId);
+
             return NoContent();
         }
-        catch (ArgumentException ex) { return BadRequest(ex.Message); }
-        catch (InvalidOperationException ex) { return BadRequest(ex.Message); }
+        catch (ArgumentException ex)
+        {
+            return BadRequest(ex.Message);
+        }
+        catch (InvalidOperationException ex)
+        {
+            return Conflict(ex.Message);
+        }
     }
 
-    private static AtendimentoResposta Mapear(Atendimento atendimento) => new()
+    // Converter entidade em resposta da API
+    private static AtendimentoResposta Mapear(
+        Atendimento atendimento)
     {
-        ID = atendimento.ID,
-        NomeCliente = atendimento.NomeCliente,
-        EmailCliente = atendimento.EmailCliente,
-        Celular = atendimento.Celular,
-        Assunto = atendimento.Assunto,
-        FuncionarioID = atendimento.FuncionarioID,
-        Status = atendimento.Status,
-        DataInicio = atendimento.DataInicio,
-        DataFim = atendimento.DataFim
-    };
+        return new AtendimentoResposta
+        {
+            ID = atendimento.ID,
+            NomeCliente = atendimento.NomeCliente,
+            EmailCliente = atendimento.EmailCliente,
+            Celular = atendimento.Celular,
+            Assunto = atendimento.Assunto,
+            FuncionarioID = atendimento.FuncionarioID,
+            Status = atendimento.Status,
+            DataInicio = atendimento.DataInicio,
+            DataFim = atendimento.DataFim
+        };
+    }
 }

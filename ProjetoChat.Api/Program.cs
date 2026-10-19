@@ -24,6 +24,14 @@ builder.Services.AddScoped<IUsuarioRepositorio, UsuarioRepositorio>();
 //Adicionar serviços ao conteiner OBS todas ver que tiver um Aplicacao tem q adicionar aqui
 builder.Services.AddScoped<ITarefaAplicacao, TarefaAplicacao>();
 
+//Adicionar Atendimento as interfaces de banco de dados OBS todas ver que tiver um Aplicacao tem q adicionar aqui
+builder.Services.AddScoped<IAtendimentoAplicacao, AtendimentoAplicacao>();
+builder.Services.AddScoped<IAtendimentoRepositorio, AtendimentoRepositorio>();
+
+//Adicionar Mensagem as interfaces de banco de dados OBS todas ver que tiver um Aplicacao tem q adicionar aqui
+builder.Services.AddScoped<IMensagemAplicacao, MensagemAplicacao>();
+builder.Services.AddScoped<IMensagemRepositorio, MensagemRepositorio>();
+
 builder.Services.AddScoped<IJsonPlaceHolderServico, JsonPlaceHolderServico>();
 
 builder.Services.AddControllers();

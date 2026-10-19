@@ -10,8 +10,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace ProjetoChat.Repositorio.Migrations
 {
     [DbContext(typeof(ProjetoChatContexto))]
-    [Migration("20261017182016_atendimento")]
-    partial class atendimento
+    [Migration("20261018234235_inicio")]
+    partial class inicio
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -61,6 +61,34 @@ namespace ProjetoChat.Repositorio.Migrations
                     b.ToTable("atendimentos", (string)null);
                 });
 
+            modelBuilder.Entity("ProjetoChat.Dominio.Entidades.Mensagem", b =>
+                {
+                    b.Property<int>("ID")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("INTEGER")
+                        .HasColumnName("MensagemId");
+
+                    b.Property<int>("AtendimentoID")
+                        .HasColumnType("INTEGER");
+
+                    b.Property<DateTime>("DataEnvio")
+                        .HasColumnType("TEXT");
+
+                    b.Property<string>("Remetente")
+                        .IsRequired()
+                        .HasColumnType("TEXT");
+
+                    b.Property<string>("Texto")
+                        .IsRequired()
+                        .HasColumnType("TEXT");
+
+                    b.HasKey("ID");
+
+                    b.HasIndex("AtendimentoID", "DataEnvio", "ID");
+
+                    b.ToTable("mensagens", (string)null);
+                });
+
             modelBuilder.Entity("ProjetoChat.Dominio.Entidades.Usuario", b =>
                 {
                     b.Property<int>("ID")
@@ -104,6 +132,15 @@ namespace ProjetoChat.Repositorio.Migrations
                         .WithMany()
                         .HasForeignKey("FuncionarioID")
                         .OnDelete(DeleteBehavior.Restrict);
+                });
+
+            modelBuilder.Entity("ProjetoChat.Dominio.Entidades.Mensagem", b =>
+                {
+                    b.HasOne("ProjetoChat.Dominio.Entidades.Atendimento", null)
+                        .WithMany()
+                        .HasForeignKey("AtendimentoID")
+                        .OnDelete(DeleteBehavior.Restrict)
+                        .IsRequired();
                 });
 #pragma warning restore 612, 618
         }

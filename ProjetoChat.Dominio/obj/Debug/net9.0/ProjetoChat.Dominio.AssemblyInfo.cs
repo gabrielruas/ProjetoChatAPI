@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ProjetoChat.Dominio")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+85550279f94aa098cee0d4cc47267d8dc42e0b33")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6965a03096d68f964d498937784e690051b01342")]
 [assembly: System.Reflection.AssemblyProductAttribute("ProjetoChat.Dominio")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ProjetoChat.Dominio")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
