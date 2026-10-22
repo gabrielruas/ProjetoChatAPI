@@ -13,6 +13,7 @@ using Microsoft.Extensions.Configuration;
 using ProjetoChat.Aplicacao;
 using DataAccess.Repositorio;
 using ProjetoChat.Dominio.Entidades;
+using ProjetoChat.Api.Hubs;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -33,6 +34,7 @@ builder.Services.AddScoped<IMensagemRepositorio, MensagemRepositorio>();
 
 
 builder.Services.AddControllers();
+builder.Services.AddSignalR();
 
 //Adicionando serviço de banco de dados 
 builder.Services.AddDbContext<ProjetoChatContexto>(options =>options.UseSqlite(builder.Configuration.GetConnectionString("DefaultConnection")));
@@ -44,7 +46,8 @@ builder.Services.AddCors(options =>
         policy
             .WithOrigins("http://localhost:3000")
             .AllowAnyMethod()
-            .AllowAnyHeader();
+            .AllowAnyHeader()
+            .AllowCredentials();
     });
 });
 builder.Services.AddEndpointsApiExplorer();
@@ -62,6 +65,7 @@ app.UseCors("CorsPolicy");
 app.UseHttpsRedirection();
 app.UseAuthorization();
 app.MapControllers();
+app.MapHub<MensagemHub>("/hubs/mensagens");
 app.Run();
 
 
