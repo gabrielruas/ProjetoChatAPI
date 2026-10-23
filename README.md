@@ -1,21 +1,34 @@
-## Pré-requisito
+## Pré-requisitos
 
-Instalar o Net 9 Dotnet  
+- Instalar o **SDK do .NET 9**, disponível no [site oficial da Microsoft](https://dotnet.microsoft.com/download/dotnet/9.0).
+- Configurar a conexão com o banco de dados no projeto da API.
+- Ter a ferramenta `dotnet-ef` disponível para executar as migrations.
 
-o projeto trabalha em camadas onde e dividido em camada 
 ## Estrutura do projeto
 
-- **API:** recebe as requisições do frontend, encaminha para a camada de aplicação e retorna as respostas.
-- **Aplicacao:** recebe as solicitações da API, coordena as regras e validações e utiliza o Repositorio para consultar e salvar dados.
+O projeto está organizado em camadas, cada uma com uma responsabilidade:
+
+- **API:** recebe as requisições do frontend, encaminha para a camada Aplicacao e retorna as respostas.
+- **Aplicacao:** coordena as operações e validações, utilizando o Repositorio para consultar e salvar dados.
 - **Repositorio:** realiza as consultas, inclusões, alterações e exclusões no banco de dados.
-- **Dominio:** contém as entidades "Tabelas" e as regras de negócio que representam o funcionamento do sistema.
+- **Dominio:** contém as entidades e as regras de negócio do sistema. As entidades representam os dados que podem ser mapeados para tabelas no banco.
 - **Services:** reúne serviços auxiliares e integrações com sistemas externos.
 
 ## Como executar o projeto
 
+Execute os comandos a partir da pasta da solução.
 
+> Os exemplos consideram as pastas `Repositorio` e `API`. Ajuste os caminhos conforme os nomes utilizados no projeto.
 
-### 1. Criar a migration
+### 1. Restaurar as dependências
+
+```bash
+dotnet restore
+```
+
+Esse comando baixa as dependências necessárias para compilar o projeto.
+
+### 2. Criar a migration inicial
 
 Acesse a pasta da camada Repositorio:
 
@@ -23,36 +36,38 @@ Acesse a pasta da camada Repositorio:
 cd Repositorio
 ```
 
-Se o projeto ainda não possuir migrations, crie a migration inicial:
+Se o projeto ainda não possuir migrations, execute:
 
 ```bash
 dotnet ef migrations add Inicio --startup-project ../API
 ```
 
-Esse comando gera os arquivos que descrevem a estrutura do banco de dados com base nas entidades e nas configurações do contexto.
+Esse comando gera os arquivos que descrevem a estrutura do banco de dados, com base nas entidades e nas configurações do contexto.
 
-> Caso o projeto já possua migrations, pule esta etapa.
+> Se o projeto já possui migrations, pule a criação e siga para a atualização do banco.
 
-### 2. Atualizar o banco de dados
+### 3. Atualizar o banco de dados
+
+Ainda na pasta Repositorio, execute:
 
 ```bash
 dotnet ef database update --startup-project ../API
 ```
 
-Esse comando aplica as migrations, criando ou atualizando as tabelas no banco de dados configurado.
+Esse comando aplica as migrations ao banco de dados configurado, criando ou atualizando sua estrutura.
 
-### 3. Compilar o projeto
+### 4. Compilar a solução
 
-Retorne à pasta da solução e compile:
+Retorne à pasta da solução e execute:
 
 ```bash
 cd ..
 dotnet build
 ```
 
-O comando verifica se o projeto compila corretamente. Ele não inicia a aplicação.
+Esse comando compila os projetos e verifica se existem erros de compilação.
 
-### 4. Iniciar a API
+### 5. Iniciar a APIc
 
 Acesse a pasta da API e execute:
 
@@ -61,5 +76,4 @@ cd API
 dotnet run
 ```
 
-Após a inicialização, o terminal exibirá o endereço em que a API está disponível.
-
+Após a inicialização, o terminal exibirá o endereço em que a API está disponível. Mantenha o terminal aberto enquanto estiver utilizando a aplicação.
