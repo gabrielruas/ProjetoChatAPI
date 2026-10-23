@@ -33,25 +33,29 @@ Esse comando baixa as dependências necessárias para compilar o projeto.
 Acesse a pasta da camada Repositorio:
 
 ```bash
-cd Repositorio
+cd ProjetoChatRepositorio
 ```
 
 Se o projeto ainda não possuir migrations, execute:
 
 ```bash
-dotnet ef migrations add Inicio --startup-project ../API
+dotnet tool install --global dotnet-ef --version "9.*"
+
+```
+```bash
+dotnet ef migrations add Inicio 
+
 ```
 
 Esse comando gera os arquivos que descrevem a estrutura do banco de dados, com base nas entidades e nas configurações do contexto.
 
-> Se o projeto já possui migrations, pule a criação e siga para a atualização do banco.
 
 ### 3. Atualizar o banco de dados
 
 Ainda na pasta Repositorio, execute:
 
 ```bash
-dotnet ef database update --startup-project ../API
+dotnet ef database update 
 ```
 
 Esse comando aplica as migrations ao banco de dados configurado, criando ou atualizando sua estrutura.
