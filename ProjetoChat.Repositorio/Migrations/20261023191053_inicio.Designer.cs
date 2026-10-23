@@ -10,7 +10,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace ProjetoChat.Repositorio.Migrations
 {
     [DbContext(typeof(ProjetoChatContexto))]
-    [Migration("20261018234235_inicio")]
+    [Migration("20261023191053_inicio")]
     partial class inicio
     {
         /// <inheritdoc />
